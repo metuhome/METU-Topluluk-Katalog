@@ -1,7 +1,7 @@
 [IACES METU LC](IACES.md)  
-ODTÜ Serüven Kültür  
-ODTÜ Müzik Toplulukları  
+[ODTÜ Serüven Kültür](serüven.md)  
+[ODTÜ Müzik Toplulukları](mt.md)  
 [BEST (Board of European Students of Technology)](BEST.md)  
-ODTÜ Kitap Topluluğu  
-ODTÜ Doğanın Çocukları  
-ODTÜ Ar-Ge Topluluğu  
+[ODTÜ Kitap Topluluğu](KİTAP.md)  
+[ODTÜ Doğanın Çocukları](wps.md)  
+[ODTÜ Ar-Ge Topluluğu](arege.md)  
