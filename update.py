@@ -1,6 +1,8 @@
 import pandas as pd 
 
-df = pd.read_csv("Topluluk Katalog Formu (Responses) - Form Responses 1.csv")
+with open("index.md","r") as f:
+    lines = f.readlines()
+
 
 names = list(df["Topluluk Adı"])
 
