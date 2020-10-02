@@ -4,4 +4,4 @@
 [BEST (Board of European Students of Technology)](BEST.md)  
 [ODTÜ Kitap Topluluğu](KİTAP.md)  
 [ODTÜ Doğanın Çocukları](wps.md)  
-[ODTÜ Ar-Ge Topluluğu](arege.md)  
+[ODTÜ Ar-Ge Topluluğu](arge.md)  
