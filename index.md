@@ -1,4 +1,4 @@
-## TOPLULUKLARIN KATALOĞU  
+## TOPLULUKLAR 
 * [BEST (Board of European Students of Technology)](topluluklar/BEST.md)  
 * [IACES METU LC](topluluklar/IACES.md)  
 * [ODTÜ Ar-Ge Topluluğu](topluluklar/arge.md)  
