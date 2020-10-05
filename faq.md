@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq.md
+permalink: faq.md
 ---
 
 # Hello World
