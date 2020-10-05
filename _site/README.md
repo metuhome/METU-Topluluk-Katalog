@@ -1,1 +1,0 @@
-# Topluluk Kataloğu
