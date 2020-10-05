@@ -1,0 +1,9 @@
+BİZ KİMİZ ?  
+BEST Ankara, 2005 yılında ODTÜ Kültür İşleri Müdürlüğü bünyesinde kurulmuştur. BEST bünyesindeki 97 yerel BEST grubundan biri olan BEST Ankara, kurulduğu günden bu yana düzenlediği etkinliklerle her yıl 20.000'den fazla öğrenciye hitap etmektedir.
+  
+EN İYİSİ NEDİR ?  
+BEST, farklı ülkelerden gelen öğrencilere akademik etkinlikler, eğitim sempozyumları ve mühendislik yarışmaları gibi etkinliklerle bir araya gelme ve birlikte çalışma fırsatları sunar. Ayrıca uluslararası kariyer desteği ve kariyer günleri aracılığıyla öğrencilere kariyer desteği sağlar.  
+
+NEREDEYİZ?  
+  Avrupa'da 34 farklı ülke ve 97 farklı üniversitede  
+Aachen | Aalborg | Almada | Ankara | Atina | Aveiro | Barselona | Belgrad | Brasov | Bratislava | Brno | Brüksel | Brüksel ULB | Bükreş | Budapeşte | CentraleSupelec | Hanya | Kişinev | Cluj-Napoca | Coimpra | Kopenhag | Delft | Ekaterinburg UrFU | ENSAM | ENSTA Bretagne | ENSTA ParisTech | Erlangen | Gdansk | Ghent | Gliwice | Göteborg | Graz | Grenoble | Groningen | Helsinki | Iasi | Isparta | İstanbul | İstanbul Yıldız | İzmir | Kaunas | Kiev | Kosice | Krakow | Las Palmas | Leuven | Liege | Lizbon | Ljubljana | Lodz | Louvain-la-Neuve | Lviv | Lyon | Madrid | Madrid Carlos III | Maribor | Messina | Milan | Moskova | Mostar | Nancy | Napoli | Nis | Novi Sad | Paris Polytechnique | Patras | Podgorica | Porto | Prag | Reykjavik | Riga | Roma | Roma Tor Vergata | Saint Petersburg | Üsküp | Sofya | Stockholm | Tallinn | Tampere | Selanik | Timisoara | Turin | Uppsala | Valencia | Valladolid | Veszprem | Viyana | Vinnytsia | Varşova | Wroclaw | Zagreb | Zürih
