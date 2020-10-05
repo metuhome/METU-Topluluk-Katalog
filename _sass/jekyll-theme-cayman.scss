@@ -61,6 +61,15 @@ a {
   }
 }
 
+faq {
+  color: #ffffff;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
