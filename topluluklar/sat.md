@@ -1,4 +1,7 @@
-﻿# ODTÜ Su Altı Topluluğu
+﻿
+
+
+# ODTÜ Su Altı Topluluğu
 Yaşantısında denizin hiçbir etkisinin bulunmadığı bir kent ve bu kadar güçlü deniz sevgisine sahip insanlar... 1985 yılında üç ODTÜ’lü öğrenci, üniversite öğrencisinin hareket ve canlılığını, deneyimlerin getirdiği bilinç ve eğitim ile bütünleştirmeyi amaçlayarak hiç gerçekleşmeyecek gibi görünen hayallerine üç akademisyeni de ortak ederek bu topluluğu kurdular. ODTÜ SAT 35. yılında özenle eğitilmiş yüzlerce dalgıcıyla ve ilk günkü heyecanıyla yoluna devam etmektedir.
 
 
@@ -18,17 +21,7 @@ Amacımız Türkiye Kıyıları ve iç sularındaki tarihi, kültürel ve doğal
 
 ## Üyelik Sistemi
 
-```mermaid
-graph TD
-  A(SAT 101 Temel Dalış Teorik Eğitimi) --> B(SAT 101 Sınavı)
-  A(SAT 101 Temel Dalış Teorik Eğitimi) --> G(Aktiflik)
-  B --> C( SAT 102 Temel Dalış kampı)
-  G --> C( SAT 102 Temel Dalış kampı)
-  C --> D(Yeni Bir ODTÜ SAT'lı)
-```
-## İletişim
-[Web Sitemiz](http://sat.metu.edu.tr/)
-[Instagram](https://www.instagram.com/odtusat/?hl=tr)
-[Facebook](https://www.facebook.com/odtusat/)
-*sat-yk@metu.edu.tr*
+SAT 101 Temel Dalış Teorik Eğitimi--> SAT 101 Sınavı-->SAT 101 Temel Dalış Teorik Eğitimi--> SAT 102 Temel Dalış kampı--> Yeni Bir ODTÜ SAT'lı
 
+## İletişim
+[Web Sitemiz](http://sat.metu.edu.tr/) [Instagram](https://www.instagram.com/odtusat/?hl=tr) [Facebook](https://www.facebook.com/odtusat/) sat-yk@metu.edu.tr
