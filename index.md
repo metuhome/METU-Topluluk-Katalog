@@ -14,5 +14,5 @@
 * [ODTÜ Müzik Toplulukları](topluluklar/mt.md)  
 * [ODTÜ Serüven Kültür](topluluklar/serüven.md)  
 * [ODTÜ Su Altı Topluluğu](topluluklar/sat.md)
-* [ODTÜ Vegan](topluluklar/vegan.md)  
+* [ODTÜ Vegan](topluluklar/vegan.md)
 
