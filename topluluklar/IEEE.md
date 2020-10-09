@@ -1,4 +1,6 @@
-![](G:\ebrar.png)
+<p align="center">
+   <img src="images/logo.png" style="zoom: 45%;" />
+</p>
 
 # BİZ KİMİZ ? #
 
@@ -8,8 +10,9 @@ IEEE ODTÜ Öğrenci Kolu olarak 1990 yılında 12 kurucu üyeyle dünyanın en 
 
 IEEE'nin açılımı "Institute of Electrical and Electronics Engineers " olmasına rağmen yaptığımız çalışmalar ve faaliyetlerle birlikte ***"Institute of Engineers and Everyone Else"*** açılımını daha içten karşılamaktayız.
 
-<img src="C:\Users\TOSHIBA\Desktop\42813416_10155523701756372_5268374530732064768_o.jpg" style="zoom: 30%;" />
-
+<p align="center">
+   <img src="images/toplu.jpg" style="zoom: 50%;" />
+</p>
 
 
 ## İç Yapımız ##
@@ -32,30 +35,30 @@ IEEE ODTÜ alt birimleri her biri farklı alanlardan oluşan komiteler, teknik a
 
 ### *1)Komiteler* ###
 
-* Sponsorluk ve Kurumsal İlişkiler Komitesi <img src="C:\Users\TOSHIBA\Desktop\img_338794.png" style="zoom:3%;" /> 
-* Basın ve Halkla İlişkiler Komitesi <img src="C:\Users\TOSHIBA\Desktop\img_155485.png" style="zoom:3%;" />  
-* Tanıtım ve Pazarlama Komitesi <img src="C:\Users\TOSHIBA\Desktop\img_543514.png" style="zoom:4%;" />  
-* Sosyal Etkinlikler ve İnsan Kaynakları Komitesi <img src="C:\Users\TOSHIBA\Desktop\img_376107.png" style="zoom:3%;" />  
-* Yayın ve Tasarım Komitesi <img src="C:\Users\TOSHIBA\Desktop\img_353549.png" style="zoom:3%;" /> 
-* Sistem Komitesi <img src="C:\Users\TOSHIBA\Desktop\img_90119.png" style="zoom:3%;" /> 
-* Profesyonel İletişim Komitesi (PROCOMM) <img src="C:\Users\TOSHIBA\Desktop\img_227934.png" style="zoom:3.7%;" /> 
-* Kurumsal Etkinlikler ve Planlama Komitesi <img src="C:\Users\TOSHIBA\Desktop\img_460402.png" style="zoom:3.6%;" /> 
+* Sponsorluk ve Kurumsal İlişkiler Komitesi <img src="images/sponsorluk.png" style="zoom:3%;" /> 
+* Basın ve Halkla İlişkiler Komitesi <img src="images/basın.png" style="zoom:3%;" />  
+* Tanıtım ve Pazarlama Komitesi <img src="images/tanıtım.png" style="zoom:4%;" />  
+* Sosyal Etkinlikler ve İnsan Kaynakları Komitesi <img src="images/sosyal.png" style="zoom:3%;" />  
+* Yayın ve Tasarım Komitesi <img src="images/tasarım.png" style="zoom:3%;" /> 
+* Sistem Komitesi <img src="images/sistem.png" style="zoom:3%;" /> 
+* Profesyonel İletişim Komitesi (PROCOMM) <img src="images/kişisel.png" style="zoom:3.7%;" /> 
+* Kurumsal Etkinlikler ve Planlama Komitesi <img src="images/kurumsal.png" style="zoom:3.6%;" /> 
 
 ### *2)Teknik Alt Birimler*
 
-* Computer Society <img src="C:\Users\TOSHIBA\Desktop\img_15383.png" style="zoom:3.8%;" /> 
-* Power and Energy Society <img src="C:\Users\TOSHIBA\Desktop\img_490840.png" style="zoom:4%;" /> 
-* Robotics and Automation Society <img src="C:\Users\TOSHIBA\Desktop\img_426912.png" style="zoom:4%;" />
+* Computer Society <img src="images/cs.png" style="zoom:3.8%;" /> 
+* Power and Energy Society <img src="images/pes.png" style="zoom:4%;" /> 
+* Robotics and Automation Society <img src="images/ras.png" style="zoom:4%;" />
 
 ### *3)Proje Grupları* ###
 
-* Kariyer ve Staj Proje Grubu <img src="C:\Users\TOSHIBA\Desktop\img_500026.png" style="zoom:4%;" />
-* Entrepreneurship Society <img src="C:\Users\TOSHIBA\Desktop\img_452728.png" style="zoom:4%;" /> 
-* Elektrik Elektronik Proje Grubu <img src="C:\Users\TOSHIBA\Desktop\img_550991.png" style="zoom:3%;" />
-* Women in Engineering <img src="C:\Users\TOSHIBA\Desktop\img_64020.png" style="zoom:4%;" /> 
-* Alumni Proje Grubu <img src="C:\Users\TOSHIBA\Desktop\img_319579.png" style="zoom:3.6%;" /> 
-* IEEE Türkiye Kardeş Kollar Proje Grubu <img src="C:\Users\TOSHIBA\Desktop\img_235671.png" style="zoom:3.5%;" />
-* Biltek Proje Grubu <img src="C:\Users\TOSHIBA\Desktop\img_296424.png" style="zoom:3.3%;" />  
+* Kariyer ve Staj Proje Grubu <img src="images/kariyer.png" style="zoom:4%;" />
+* Entrepreneurship Society <img src="images/es.png" style="zoom:4%;" /> 
+* Elektrik Elektronik Proje Grubu <img src="images/eepg.png" style="zoom:3%;" />
+* Women in Engineering <img src="images/wie.png" style="zoom:4%;" /> 
+* Alumni Proje Grubu <img src="images/alumni.png" style="zoom:3.6%;" /> 
+* IEEE Türkiye Kardeş Kollar Proje Grubu <img src="images/kök.png" style="zoom:3.5%;" />
+* Biltek Proje Grubu <img src="images/biltek.png" style="zoom:3.3%;" />  
 
 
 
@@ -79,44 +82,52 @@ IEEE ODTÜ olarak sahip olduğumuz çeşitli alt birimlerimiz altında farklı e
 
 ## Etkinliklerimiz ## 
 
-- > ##  <img src="G:\IMG_4513.jpg" style="zoom:33%;" /> *Kampüs Gelişim Günleri* 
+## *Kampüs Gelişim Günleri* 
+<img src="images/kgg.jpg" style="zoom:33%;" />
 
 Geçtiğimiz dönem 14.'sünü düzenlediğimiz IEEE ODTÜ'nün en köklü etkinliği olan Kampüs Gelişim Günleri (KGG), ODTÜ Kültür ve Kongre Merkezi'nde gerçekleşen, her sektörden lider firmaların ve uzman konuşmacıların yer aldığı panel ve zirve gibi konseptleriyle zengin oturumlarının yanı sıra birbirinden renkli çekiliş ve workshopların yapıldığı, şirket yetkilileriyle yakından iletişim kurmana imkan sağlayan ücretsiz üstelik sertifikalı bir etkinlik! 
 
-![](G:\IMG_6639_Original.jpg)     
+<p align="center">
+   <img src="images/kggtoplu.jpg" style="zoom:15%;" />
+</p>
 
+## *HACKATHON* 
 
-
-- > ## <img src="C:\Users\TOSHIBA\Desktop\ieee-odtu-hackathon-2020-1577749712 (1).jpg" style="zoom:50%;" /> *HACKATHON*
+<img src="images/hackathon.jpg" style="zoom:50%;" />
 
 Teknoloji profesyonelleri ile tanışılan, bol ödüllü, eğlenceli, öğretici ve heyecanlı bir maraton olan Hackathon'da dünyada en hızlı gelişen teknoloji alanlarından Computer Vision, Augmented Reality, Machine Learning, Image - Video Processing gibi alanlardan yarışmacılarımızdan seçtikleri bir konuda heyecanlı bir prototip geliştirmelerini isteyeceğiz. Çözecekleri problemi ve kullanacakları teknolojileri seçmek serbest! 
 
-![](G:\IMG_4515.jpg)
+<p align="center">
+   <img src="images/hackathonfoto.jpg" style="zoom:75%;" />
+</p>
 
-
-
-- > ## <img src="C:\Users\TOSHIBA\Desktop\12976809_10153391783226372_1483633217817138693_o.jpg" style="zoom:25%;" /> *ODTÜ Güç ve Enerji Kongresi* 
+## *ODTÜ Güç ve Enerji Kongresi* 
+<img src="images/güçenerji.jpg" style="zoom:25%;" />
 
  IEEE ODTÜ’nün gelenekselleşmiş etkinliklerinden biri olan ODTÜ Güç ve Enerji Kongresi'nde sektörün ileri gelen firmaları ve akademisyenlerini tek bir etkinlik altında toplayıp sizlerle buluşturuyoruz. Güç sizinle olsun!
 
-![](G:\IMG_4516.JPG)
+<p align="center">
+   <img src="images/güçenerjifoto.jpeg" style="zoom:85%;" />
+</p>
 
-
-
-- > ## <img src="C:\Users\TOSHIBA\Desktop\wie-ITCR.png" style="zoom:67%;" /> *WIEngineering Camp*
+## *WIEngineering Camp*
+<img src="images/wielogo.png" style="zoom:15%;" />
 
 Lise öğrencilerine mühendislikteki cinsiyet eşitliğini anlatmak ve bu algının oluşmasını sağlamak amacı ile düzenlediğimiz WIEngineering Camp'te öğrenciler, hem aktif olarak rol alabilecekleri atölyelerde workshoplara katılıyor hem de okulumuzdaki belirli mühendislikleri tanımaları ve mühendisliğin aslında cinsiyet gerektirmeyen bir meslek olduğuna dair verilen konferanslara katılıp sorularına cevap buluyorlar.
 
-<img src="G:\Dosya_001.png" style="zoom:15%;" />
+<p align="center">
+   <img src="images/wiengcamp.png" style="zoom:20%;" />
+</p>
 
 
-
-- > ## <img src="C:\Users\TOSHIBA\Desktop\EEE_Star_2020_2021 (1).png" style="zoom:50%;" /> *EEE STAR*
+## *EEE STAR*
+<img src="images/eee_star.png" style="zoom:50%;" />
 
 ODTÜ Elektrik-Elektronik Mühendisliği bölümü tarafından IEEE ODTÜ katkılarıyla düzenlenen EEE STAR programı ODTÜ Elektrik-Elektronik lisans öğrencilerine bölüm araştırma gruplarına katılma ve mevcut çalışmalar veya kendi fikirleri üzerine araştırma yapma imkanı vermek için geliştirilmiş bir etkinlik.
 
-<img src="C:\Users\TOSHIBA\Desktop\IMG_0180.JPG" style="zoom:50%;" />
-
+<p align="center">
+   <img src="images/starfoto.jpg" style="zoom:65%;" />
+</p>
 
 
 # *SENSİZ BİR KİŞİ EKSİĞİZ!*  # 
@@ -125,12 +136,12 @@ EĞER SEN DE BU AİLENİN BİR PARÇASI OLUP HAYALLERİNİN PEŞİNDEN KOŞMAK �
 
 # Bizi Sosyal Medyada Takip Et! #
 
-<img src="C:\Users\TOSHIBA\Desktop\img_203329.png" style="zoom:5%;" /> [Instagram](https://www.instagram.com/ieee.odtu/) :@ieee.odtu
+<img src="images/insta.png" style="zoom:5%;" /> [Instagram](https://www.instagram.com/ieee.odtu/) :@ieee.odtu
 
-<img src="C:\Users\TOSHIBA\Desktop\img_195328.png" style="zoom:5%;" /> [Twitter](https://twitter.com/ieeeodtu) :@ieeeodtu
+<img src="images/twitter.png" style="zoom:5%;" /> [Twitter](https://twitter.com/ieeeodtu) :@ieeeodtu
 
-<img src="C:\Users\TOSHIBA\Desktop\img_332167.png" style="zoom:5%;" /> [Facebook](https://www.facebook.com/ieeeodtu/) :@ieeeodtu
+<img src="images/facebook.png" style="zoom:5%;" /> [Facebook](https://www.facebook.com/ieeeodtu/) :@ieeeodtu
 
-<img src="C:\Users\TOSHIBA\Desktop\img_195364.png" style="zoom:5%;" /> [Youtube](https://www.youtube.com/IEEEMETU/) : IEEEMETU
+<img src="images/youtube.png" style="zoom:5%;" /> [Youtube](https://www.youtube.com/IEEEMETU/) : IEEEMETU
 
-<img src="C:\Users\TOSHIBA\Desktop\img_1102.png" style="zoom:5%;" /> [IEEE ODTÜ](http://www.ieee.metu.edu.tr/) 
+<img src="images/konum.png" style="zoom:5%;" /> [IEEE ODTÜ](http://www.ieee.metu.edu.tr/) 
