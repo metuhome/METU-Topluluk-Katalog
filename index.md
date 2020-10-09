@@ -7,6 +7,7 @@
 * [ODTÜ Amatör Astronomi Topluluğu](topluluklar/astronomi.md)  
 * [ODTÜ Ar-Ge Topluluğu](topluluklar/arge.md)  
 * [ODTÜ Bisiklet Takımı](topluluklar/bisiklet.md)  
+* [ODTÜ Biyoloji ve Genetik Topluluğu](topluluklar/biyoloji.md)  
 * [ODTÜ Doğanın Çocukları](topluluklar/wps.md)  
 * [ODTÜ İzci Grubu](topluluklar/izci.md)  
 * [ODTÜ Kitap Topluluğu](topluluklar/KİTAP.md)  
