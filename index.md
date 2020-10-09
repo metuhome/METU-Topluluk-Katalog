@@ -12,7 +12,10 @@
 * [ODTÜ Kitap Topluluğu](topluluklar/KİTAP.md)  
 * [ODTÜ Lodos Topluluğu](topluluklar/lodos.md)  
 * [ODTÜ Müzik Toplulukları](topluluklar/mt.md)  
+* [ODTÜ Oyuncuları](topluluklar/oyuncu.md)
 * [ODTÜ Serüven Kültür](topluluklar/serüven.md)  
 * [ODTÜ Su Altı Topluluğu](topluluklar/sat.md)
 * [ODTÜ Vegan](topluluklar/vegan.md)
+* [ODTÜ Verimlilik Topluluğu](topluluklar/vt.md)  
+
 
