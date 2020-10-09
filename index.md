@@ -8,6 +8,7 @@
 * [ODTÜ Ar-Ge Topluluğu](topluluklar/arge.md)  
 * [ODTÜ Bisiklet Takımı](topluluklar/bisiklet.md)  
 * [ODTÜ Biyoloji ve Genetik Topluluğu](topluluklar/biyoloji.md)  
+* [ODTÜ Dış Politika ve Uluslararası İlişkiler Topluluğu](topluluklar/politika.md)  
 * [ODTÜ Doğanın Çocukları](topluluklar/wps.md)  
 * [ODTÜ İzci Grubu](topluluklar/izci.md)  
 * [ODTÜ Kitap Topluluğu](topluluklar/KİTAP.md)  
