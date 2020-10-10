@@ -9,7 +9,9 @@ ODTÜ OYUNCULARI 1960 yılında ODTÜ'nün eski kampüsü olan TBMM'nin arkasın
 <p align="justify">
 ODTÜ Oyuncuları olarak kolektif yapıda bir topluluğuz. Sahne üstü ve sahne arkasındaki sorumlulukları hep beraber yerine getiriyoruz. Tiyatro anlayışımız sadece sahne üstüyle kısıtlı değildir. Sahne arkasında dekor, ışık, kostüm, makyaj ve aksesuar gibi sorumluluk alanlarımız vardır ve her üye bu sorumluluk alanlarından birinde üretime dahil olsa da, ürünü oluşturan her alanda beraber çalışırız. Topluluğumuzda herhangi bir dışarıdan çalıştırıcı yoktur. Topluluğumuzun daha deneyimli olan üyeleri eğitim çalışmalarını ve oyun yönetmenliğini yürütme sorumluluğunu alır.
 
+
 ## Oyun ve Şenlik
+
 
 <img align="right" src="https://lh6.googleusercontent.com/vg3KTB6tLP-Z6A9C9jYmxb2edT9Bnf9nbAI9gF_pss7RROCHRZyTxvVnnzq9jWce6Up-HGmqRba2qsIX9fmXJxbFqmSGTxHlasXSImd81-hdcK3GP8bpp1Ph2Nj-muE9WVqXtfFY" width="500"/>
 
