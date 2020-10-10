@@ -13,6 +13,7 @@
 * [ODTÜ İzci Grubu](topluluklar/izci.md)  
 * [ODTÜ Kitap Topluluğu](topluluklar/KİTAP.md)  
 * [ODTÜ Lodos Topluluğu](topluluklar/lodos.md)  
+* [ODTÜ Münazara Topluluğu](topluluklar/münazara.md)
 * [ODTÜ Müzik Toplulukları](topluluklar/mt.md)  
 * [ODTÜ Oyuncuları](topluluklar/oyuncu.md)
 * [ODTÜ Serüven Kültür](topluluklar/serüven.md)  
