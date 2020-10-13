@@ -10,6 +10,7 @@
 * [ODTÜ Biyoloji ve Genetik Topluluğu](topluluklar/biyoloji.md)  
 * [ODTÜ Dış Politika ve Uluslararası İlişkiler Topluluğu](topluluklar/politika.md)  
 * [ODTÜ Doğanın Çocukları](topluluklar/wps.md)  
+* [ODTÜ Genç Girişimciler Topluluğu](topluluklar/ggt.md)
 * [ODTÜ İzci Grubu](topluluklar/izci.md)  
 * [ODTÜ Kitap Topluluğu](topluluklar/KİTAP.md)  
 * [ODTÜ Lodos Topluluğu](topluluklar/lodos.md)  
